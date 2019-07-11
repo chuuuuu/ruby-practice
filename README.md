@@ -16,5 +16,7 @@ You can now open http://localhost:3000 from the browser.
 
 ## Ref
 [heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+
 [ruby on rails](https://ihower.tw/rails/firststep.html)
+
 [postgreSQL](https://www.postgresql.org/docs/12/index.html)
